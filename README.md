@@ -10,3 +10,4 @@ XTechnology-TR/XTechnology-TR is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://app.daily.dev/TheProtector"><img src="https://api.daily.dev/devcards/c896598ecdb64e0d90fffa24cead6632.png?r=wcn" width="400" alt="X Technology's Dev Card"/></a>
